@@ -70,9 +70,10 @@ clear
 echo
 printf "	\e[36m ××××××××××××××××××××××××××××××× \e[0m\n"
 printf "	\e[36m ×     \e[97m ᶜᵒᵈᵉ ᶜᵒᵖʸ ᶻᵖʰⁱˢʰᵉʳ \e[36m    × \e[0m\n"
-printf "	\e[36m × \e[91m █▀▀█ █▀▀█ █▀▀ █▀▀    █▀▀█ \e[36m × \e[0m\n"
-printf "	\e[36m ×\e[91m  █▀▀▄ █  █ ▀▀█ ▀▀█ ▀▀ █▄▄█ \e[36m × \e[0m\n"
-printf "	\e[36m ×  █▄▄█ ▀▀▀▀ ▀▀▀ ▀▀▀    █     × \e[0m\n"
+printf "	\e[36m × \e[91m █▀█ █▄█ █▀▀ █▀█    █▀█ █▀█ █▀▀ \e[36m × \e[0m\n"
+printf "	\e[36m ×\e[91m  █▀█ █ █ █▀▀ █▀▀ ▀▀ █▀█ █▄█ ▀▀█ \e[36m × \e[0m\n"
+printf "	\e[36m ×  ▀▀▀ ▀ ▀ ▀▀▀ ▀ ▀    ▀ ▀ ▀ ▀ ▀▀▀     × \e[0m\n"
+printf "	\e[36m ×\e[91m           RYEL PROG             \e[36m × \e[0m\n"
 printf "	\e[36m × \e[97m              [verson:2.0]\e[36m  × \e[0m\n"
 printf "	\e[36m ××××××××××××××××××××××××××××××× \e[0m\n"
 printf "	\n"
